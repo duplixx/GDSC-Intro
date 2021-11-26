@@ -2,7 +2,7 @@ Well I would start introducing myself with my name. My name is Shekhar Patel and
 
 
 I am interested in web development and recently i have made some websites 
-1. bit.ly/CODEitOUT //this website is for 1st year students who are searching for resounces to gain new skills(C ,C++,Cybersecurity)
+1. bit.ly/CODEitOUT //this website is for 1st year students who are searching for resources to gain new skills(C ,C++,Cybersecurity)
 2.bit.ly/technogigs //this website i created for my little brother who is running his YTchannel this website will give him a professional look
 3. recently i have participated in HACKTOBER(waiting for my t-shirt)
 
